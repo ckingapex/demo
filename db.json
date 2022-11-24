@@ -1,7 +1,7 @@
 {
   "correspondent": [
-    { "id": "CAN123", "branch": "CAN", "account_country": "CAN" },
-    { "id": "USA123", "branch": "USA", "account_country": "USA" }
+    { "id": "CAN", "branch": "CAN", "account_country": "CAN" },
+    { "id": "USA", "branch": "USA", "account_country": "USA" }
   ],
   "movie": [
     { "id": 11, "rank": 10, "title": "Rocky 1", "releaseYear": 1976, "rating": "PG", "director": "John G. Alvidsen" },
