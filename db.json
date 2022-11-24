@@ -1,4 +1,8 @@
 {
+  "correspondent": [
+    { "id": "CAN123", "account_country": "CAN" },
+    { "id": "USA123", "account_country": "USA" }
+  ],
   "movie": [
     { "id": 11, "rank": 10, "title": "Rocky 1", "releaseYear": 1976, "rating": "PG", "director": "John G. Alvidsen" },
     { "id": 12, "rank": 19, "title": "Rocky 2", "releaseYear": 1979, "rating": "PG", "director": "Sylvester Stallone" },
